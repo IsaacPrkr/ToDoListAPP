@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="vista_blue">#80A4ED</color>
+    <color name="battleship_grey">#857F74</color>
+    <color name="beaver">#A18276</color>
+    <color name="eerie_black">#1D1E18</color>
+    <color name="light_blue">#BBE2EC</color>
+    <color name="dark_green">#12372A</color>
+    <color name="light_green">#436850</color>
+    <color name="pale_green">#ADBC9F</color>
+    <color name="cream">#FBFADA</color>
+    <color name="grey">#B4B4B8</color>
+    <color name="light_grey">#C7C8CC</color>
+    <color name="pale_cream">#E3E1D9</color>
+    <color name="light_cream">#F2EFE5</color>
+    <color name="dark_blue">#0B60B0</color>
+
+</resources>
